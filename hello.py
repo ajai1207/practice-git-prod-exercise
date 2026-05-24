@@ -1,7 +1,1 @@
-
-
-
-
-
-def main():
-    ...
+print("hello from one branch")
