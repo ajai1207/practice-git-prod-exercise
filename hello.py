@@ -1,2 +1,7 @@
-def auth():
-    print("implemented authentication")
+
+
+
+
+
+def main():
+    ...
