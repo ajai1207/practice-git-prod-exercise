@@ -1,5 +1,2 @@
-
-
-
-def hello():
-    print("integrating auth above")
+def auth():
+    print("implemented authentication")
